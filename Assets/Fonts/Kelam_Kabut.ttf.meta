@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 38ee1f62a6b4f06488eaf105c6c746c2
+timeCreated: 1513360302
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kelam Kabut
+  fontNames:
+  - Kelam Kabut
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd4265aae9839d142b345fe022a61e9a
+timeCreated: 1513360034
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swingdevil DEMO
+  fontNames:
+  - Swingdevil DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
